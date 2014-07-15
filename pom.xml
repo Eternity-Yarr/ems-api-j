@@ -7,6 +7,8 @@
     <groupId>org.lutra</groupId>
     <artifactId>ems-api-j</artifactId>
     <version>1.0</version>
+    <name>EMS russianpost API</name>
+    <description>Calculate estimate delivery price by EMS russianpost</description>
     <developers>
         <developer>
             <name>Dmitry V. Roenko</name>
@@ -16,6 +18,17 @@
             </roles>
         </developer>
     </developers>
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>http://www.opensource.org/licenses/mit-license.php</url>
+        </license>
+    </licenses>
+    <scm>
+        <connection>scm:git:git@github.com:Eternity-Yarr/ems-api-j.git</connection>
+        <url>scm:git:git@github.com:Eternity-Yarr/ems-api-j.git</url>
+        <developerConnection>scm:git:git@github.com:Eternity-Yarr/ems-api-j.git</developerConnection>
+    </scm>
     <dependencies>
         <dependency>
             <groupId>com.google.code.gson</groupId>
