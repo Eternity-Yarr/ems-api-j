@@ -7,7 +7,7 @@ import java.util.Map;
 
 /**
  * 15.07.2014 at 12:32
- * Response of market-cpa project
+ * Response of ems-api-j project
  *
  * @author Dmitry V. (savraz [at] gmail.com)
  */

@@ -2,7 +2,7 @@ package org.lutra.ems;
 
 /**
  * 15.07.2014 at 12:05
- * Location of market-cpa project
+ * Location of ems-api-j project
  *
  * @author Dmitry V. (savraz [at] gmail.com)
  */

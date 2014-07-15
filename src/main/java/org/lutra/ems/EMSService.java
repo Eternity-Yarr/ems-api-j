@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  * 15.07.2014 at 11:49
- * EMSService of market-cpa project
+ * EMSService of ems-api-j project
  *
  * @author Dmitry V. (savraz [at] gmail.com)
  */

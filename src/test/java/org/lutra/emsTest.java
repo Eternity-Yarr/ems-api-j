@@ -6,7 +6,7 @@ import org.junit.Test;
 
 /**
  * 15.07.2014 at 11:48
- * emsTest of market-cpa project
+ * emsTest of ems-api-j project
  *
  * @author Dmitry V. (savraz [at] gmail.com)
  */

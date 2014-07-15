@@ -10,7 +10,7 @@ import java.net.URLConnection;
 
 /**
  * 15.07.2014 at 12:23
- * Request of market-cpa project
+ * Request of ems-api-j project
  *
  * @author Dmitry V. (savraz [at] gmail.com)
  */
