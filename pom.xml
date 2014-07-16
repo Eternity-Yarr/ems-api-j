@@ -24,6 +24,7 @@
             <url>http://www.opensource.org/licenses/mit-license.php</url>
         </license>
     </licenses>
+    <packaging>jar</packaging>
     <scm>
         <connection>scm:git:git@github.com:Eternity-Yarr/ems-api-j.git</connection>
         <url>scm:git:git@github.com:Eternity-Yarr/ems-api-j.git</url>
